@@ -1,0 +1,12 @@
+class main{
+  int sum=0;
+  public static int op(int arr[]){
+    sum=sum+arr[i];
+  }
+  return sum;
+  public static void main(String[] args){
+    int arr[]={1,2,3,4,5};
+    System.out.println(op(arr));
+  }
+}
+    
